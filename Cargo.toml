@@ -1,0 +1,8 @@
+[package]
+name = "unix-cron-schedule-iterator"
+version = "0.1.0"
+edition = "2021"
+description = ""
+license = "BSD-3-Clause"
+
+[dependencies]
